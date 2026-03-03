@@ -1,0 +1,5 @@
+{
+  "name": "MS-SQL Microservices Backend",
+  "description": "A high-performance Node.js backend using Express.js and MS-SQL (tedious) with connection pooling and microservices architecture.",
+  "requestFramePermissions": []
+}
